@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Cavera Veículos | Paracatu - MG",
+  "description": "Catálogo de veículos seminovos selecionados da Cavera Veículos em Paracatu - MG. Localizado na Av. Israel Pinheiro, 514, Paracatuzinho. Atendimento direto pelo WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
